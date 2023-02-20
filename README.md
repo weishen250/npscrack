@@ -17,3 +17,6 @@ NPS存在一个身份验证的缺陷，无需登录，直接进后台，后台�
 点击会修改请求包，之后直接放行数据包。其他的什么都不用管了
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/2785435/1676560914747-36336f05-629f-4caa-885b-f5aa9309464b.png#averageHue=%23d7dbdd&clientId=u6eb7da8f-1a0b-4&from=paste&height=809&id=u22c69a51&name=image.png&originHeight=1618&originWidth=2506&originalType=binary&ratio=2&rotation=0&showTitle=false&size=280844&status=done&style=none&taskId=u7179ae0f-b425-41a6-8575-1be9ab83194&title=&width=1253)
 每一个请求都会自动贴上身份验证参数，非常的优雅，非常适合优雅且端庄的高级工程师。
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=weishen250/npscrack&type=Date)](https://star-history.com/#weishen250/npscrack&Date)
